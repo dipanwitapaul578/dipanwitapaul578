@@ -49,11 +49,19 @@
 
 ---
 
+## 🧩 LeetCode Stats
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/dipanwitapaul578?theme=dark&ext=heatmap" />
+  <source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/dipanwitapaul578?theme=light&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/dipanwitapaul578?theme=dark&ext=heatmap" />
+</picture>
+---
+
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src= "https://github-readme-stats-sigma-five.vercel.app/api?username=dipanwitapaul578&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dipanwitapaul578&layout=compact&theme=tokyonight&hide_border=true" height="165"  />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dipanwitapaul578&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dipanwitapaul578&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 ---
@@ -61,7 +69,6 @@
 ## 🤝 Connect With Me
 
 <p align="left">
-  <p align="left">
   <a href="mailto:dipanwitapaul578@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -73,6 +80,9 @@
   </a>
   <a href="https://github.com/dipanwitapaul578" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/dipanwitapaul578/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
 
