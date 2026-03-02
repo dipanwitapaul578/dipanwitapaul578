@@ -1,7 +1,7 @@
 # Hi there, I'm Dipanwita Paul 👋
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&width=435&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+APIs;SQL+%7C+MySQL;Learning+%26+Building+Real-World+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&width=600&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+APIs;SQL+%7C+MySQL;Learning+%26+Building+Real-World+Projects;" alt="Typing SVG" />
 </p>
 
 ---
