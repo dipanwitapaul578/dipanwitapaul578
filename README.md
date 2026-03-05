@@ -41,6 +41,7 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| [⚡ Distributed Job Queue](https://github.com/dipanwitapaul578/distributed-job-queue) | Mini Kafka/RabbitMQ — priority queues, worker nodes, retry mechanism & Dead Letter Queue | Java, Spring Boot |
 | [🎓 Student Management System](https://github.com/dipanwitapaul578/student-management-system-springboot) | REST API for managing student records | Java, Spring Boot |
 | [📋 MERN Project Management](https://github.com/dipanwitapaul578/mern-project-management) | Full-stack project management app with auth | MERN Stack |
 | [🔍 Smart Incident Analyzer](https://github.com/dipanwitapaul578/smart-incident-resolution-analyzer) | SQL analysis of IT tickets, SLAs & incident trends | SQL |
@@ -55,6 +56,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/dipanwitapaul578?theme=light&ext=heatmap" />
   <img src="https://leetcard.jacoblin.cool/dipanwitapaul578?theme=dark&ext=heatmap" />
 </picture>
+
 ---
 
 ## 📊 GitHub Stats
