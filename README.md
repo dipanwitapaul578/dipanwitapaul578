@@ -47,6 +47,7 @@
 | [🔍 Smart Incident Analyzer](https://github.com/dipanwitapaul578/smart-incident-resolution-analyzer) | SQL analysis of IT tickets, SLAs & incident trends | SQL |
 | [🧪 Manual Testing — Incident Validation](https://github.com/dipanwitapaul578/Manual-Testing-Incident-Validation) | Defect logging & validation using ITSM concepts | Manual Testing |
 | [🏦 Banking System](https://github.com/dipanwitapaul578/bankingSystem) | Core banking operations in Java | Java |
+| 🛒 [Ecommerce Backend AI](https://github.com/dipanwitapaul578/ecommerce-backend-AI) | REST API with AI-powered search & chatbot for e-commerce platform | Java, Spring Boot, Elasticsearch, Spring AI |
 
 ---
 
